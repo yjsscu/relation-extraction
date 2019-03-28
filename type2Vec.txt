@@ -1,0 +1,6 @@
+problem	0
+Out	1
+<pad>	2
+test	3
+treatment	4
+UNK	5

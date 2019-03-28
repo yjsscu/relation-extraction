@@ -1,0 +1,7 @@
+NA 0
+TeCP 1
+TrCP 2
+TrAP 3
+PIP 4
+TeRP 5
+other 6
